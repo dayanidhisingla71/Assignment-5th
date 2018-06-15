@@ -1,0 +1,12 @@
+Create a Class rectangle and its data members And create a member Function Which display The area of rectangle
+
+
+Create a Class Complex and its data members And create a member Function Which display Complex Number
+
+
+Wap To Find the Second largest Number in array
+
+
+
+Wap To Print an Array in a waveform
+
